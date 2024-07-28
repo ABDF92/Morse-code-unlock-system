@@ -72,7 +72,7 @@ The code for this project can be found in the `sketch.ino` file.
 2. **Open the project in Arduino IDE**:
    - Launch Arduino IDE.
    - Open `sketch.ino`.
-   - 
+   - Compile the code.
 3. **Upload the code:**:
    - Connect your Arduino Uno to your computer.
    - Select the correct board and port.
