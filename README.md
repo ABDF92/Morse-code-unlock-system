@@ -18,14 +18,7 @@ This project includes the following components:
 - 🟩 **16x2 LCD Display**
 - 🟢 **Push Button**
 
-### ✨ Features
-
-- Detects motion using a PIR sensor.
-- Measures distance using an ultrasonic sensor.
-- Displays information on a 16x2 LCD.
-- Controls a servo motor.
-- Provides visual feedback using LEDs.
-- Push button for user interaction.
+it uses morse code as an input to the system.
 
 ## 🛠️ Components
 
