@@ -58,8 +58,8 @@ The code for this project can be found in the `sketch.ino` file.
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/Arduino-Project.git
-   cd Arduino-Project
+   git clone https://github.com/ABDF92/Morse-code-unlock-system.git
+   cd Morse-code-unlock-system
    ```
    
 2. **Open the project in Arduino IDE**:
